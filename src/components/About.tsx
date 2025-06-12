@@ -53,7 +53,7 @@ const About = () => {
       <div className="container-custom">
         <div className="text-center mb-20 animate-on-scroll">
           <h2 className="text-4xl lg:text-6xl font-bold text-white mb-6">
-            About <span className="gradient-text">GRP</span>
+            About <span className="gradient-text">GRPs</span>
           </h2>
           <p className="text-xl text-gray-300 max-w-4xl mx-auto leading-relaxed">
             We are a passionate team of innovators, developers, and technology enthusiasts 
@@ -89,7 +89,7 @@ const About = () => {
               Our <span className="gradient-text">Story</span>
             </h3>
             <p className="text-gray-300 mb-6 leading-relaxed text-lg">
-              Founded in 2016, GRP emerged from a vision to bridge the gap between innovative technology 
+              Founded in 2024, GRPs emerged from a vision to bridge the gap between innovative technology 
               and business success. What started as a small team of passionate developers has evolved 
               into a leading software development company trusted by enterprises worldwide.
             </p>
