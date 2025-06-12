@@ -42,7 +42,7 @@ const Footer = () => {
               </div>
               <div className="text-2xl font-bold">
                 <span className="text-white">GR</span>
-                <span className="gradient-text">P</span>
+                <span className="gradient-text">Ps </span>
               </div>
             </div>
             <p className="text-gray-300 mb-6 leading-relaxed">
@@ -135,7 +135,7 @@ const Footer = () => {
         <div className="container-custom py-6">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="text-gray-400 text-sm mb-4 md:mb-0">
-              © 2024 GRP. All rights reserved. Crafted with passion and precision.
+              © 2024 GRPs. All rights reserved. Crafted with passion and precision.
             </div>
             <div className="flex items-center space-x-6">
               <div className="flex space-x-6 text-sm">
